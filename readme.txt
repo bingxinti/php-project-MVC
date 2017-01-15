@@ -21,3 +21,4 @@ index.php 项目入口
 一般情况下， 一个表对应一个控制器可一个模型类，视图可能有很多个
 
 
+![image](http://upload-images.jianshu.io/upload_images/1195879-f52b541ab2cfec0b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
